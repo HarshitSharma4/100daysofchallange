@@ -30,6 +30,7 @@ class b{
     }
 };
 //run time polymorphism ---method over riding
+// thise all are abstraction
 
 class animal {
     public:
