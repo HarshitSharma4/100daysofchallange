@@ -9,11 +9,11 @@ void marge(int *aa,int s,int e){
     int *arr2=new int[len2];
     int mnindex=s;
     for(int i=0;i<len1;i++){
-        arr1[i]=aa[mnindex];
+        arr1[i]=aa[mnindex++];
     }
     mnindex=mid+1;
     for(int i=0;i<len2;i++){
-        arr2[i]=aa[mnindex];
+        arr2[i]=aa[mnindex++];
     }
     //marging two sorted array
     int index1=0,index2=0;
@@ -27,6 +27,7 @@ void marge(int *aa,int s,int e){
         }
 
     }
+
     while (index1<len1){
         aa[mnindex++]=arr1[index1++];
     }
@@ -51,6 +52,7 @@ int main()
 {
     int arr[10]={2,7,3,7,4,8,4,3,5,9};
     marge_sorted_Array(arr,0,10);
-    cout<<arr<<endl;
+    for(int i=0;i<10;i++)
+    cout<<arr[i]<<" ";
     return 0;
 }
