@@ -263,358 +263,357 @@ Types of Inheritance -
 ### Day 28 
    
 Today I learnt about
-✅Reverse a link list
-➡️By recursion function
-➡️By Iterative statement
-✅Middle of link list
-➡️By recursion function
-➡️By Iterative statement
+- [X]Reverse a link list
+- [X]️By recursion function
+- [X]️By Iterative statement
+- [X]Middle of link list
+- [X]️By recursion function
+- [X]️By Iterative statement
 
 ### Day 29 
 
 Today i Revised
-✅Pattern programs
-✅Bitwise operator
-✅Variable scoping
-✅Operator precedence
+- [X]Pattern programs
+- [X]Bitwise operator
+- [X]Variable scoping
+- [X]Operator precedence
 
 ### DAY 30 
 learnt topic
-✅ link list in "k group
+- [X] link list in "k group
 Today I revised
-➡️switch case
-➡️ function
-✅Type of function
+- [X]️switch case
+- [X]️ function
+- [X]Type of function
 
-Day 31 #100daysofcodechallenge
+### DAY 31
 
 Today i have learn about
-✅array
-➡️1-D array
-➡️2-D array
-➡️Manipulation with array
-🔸sum of arrays
-🔸transpose
-🔸multiplication of array
-➡️linear search
-➡️Reverse of array
+- [X]array
+- [X]️1-D array
+- [X]️2-D array
+- [X]️Manipulation with array
+- [X]sum of arrays
+- [X]transpose
+- [X]multiplication of array
+- [X]️linear search
+- [X]️Reverse of array
 
-Day 32 of #100daysofcodechallenge
-
-Today I have learn about
-✅Time complexity and space complexity
-✅Binary search
-✅Done problem at leet code
-
-Day 33 of #100daysofcodechallenge
+ ### DAY 32
 
 Today I have learn about
+- [X]Time complexity and space complexity
+- [X]Binary search
+- [X]Done problem at leet code
 
-✅Sorting Method
-➡️Selection sorting
+### DAY 33
+
+Today I have learn about
+
+- [X]Sorting Method
+- [X]️Selection sorting
 time complexity O(n^2)
 space complexity O(1)
-➡️Bubble sorting
+- [X]️Bubble sorting
 time complexity worst O(n^2)
 best O(n)
 space complexity O(1)
-➡️insertion sorting
+- [X]️insertion sorting
 time complexity worst O(n^2)
 best O(n)
 space complexity O(1)
 
-Day 34 #100daysofcodechallenge
-✅stl library
-✅vector
-➡️push_back()
-➡️pop_back()
-➡️clear()
-➡️size()
-➡️capacity()
-✅stack
-➡️push()
-➡️pop()
-➡️top()
-➡️empty()
-➡️size()
-✅queue
-➡️push()
-➡️pop()
-➡️top()
-➡️empty()
-✅set
-➡️insert()
-➡️erase()
-➡️begin()
-➡️end()
-➡️count()
-➡️iterator
-➡️find()
-✅priority queue
-➡️push()
-➡️pop()
-➡️top()
-✅map
-➡️erase()
-➡️begin()
-➡️end()
-➡️count()
-➡️iterator
-➡️find()
-✅list
-➡️push_back()
-➡️push_front()
-➡️erase()
-➡️begin()
-➡️end()
-✅doubly queue
-➡️push_back()
-➡️push_front()
-➡️begin()
-➡️end()
-✅Algorithm
-➡️push_back()
-➡️push_front()
-➡️erase()
+ ### DAY 34
+- [X]stl library
+- [X]vector
+- [X]️push_back()
+- [X]️pop_back()
+- [X]️clear()
+- [X]️size()
+- [X]️capacity()
+- [X]stack
+- [X]️push()
+- [X]️pop()
+- [X]️top()
+- [X]️empty()
+- [X]️size()
+- [X]queue
+- [X]️push()
+- [X]️pop()
+- [X]️top()
+- [X]️empty()
+- [X]set
+- [X]️insert()
+- [X]️erase()
+- [X]️begin()
+- [X]️end()
+- [X]️count()
+- [X]️iterator
+- [X]️find()
+- [X]priority queue
+- [X]️push()
+- [X]️pop()
+- [X]️top()
+- [X]map
+- [X]️erase()
+- [X]️begin()
+- [X]️end()
+- [X]️count()
+- [X]️iterator
+- [X]️find()
+- [X]list
+- [X]️push_back()
+- [X]️push_front()
+- [X]️erase()
+- [X]️begin()
+- [X]️end()
+- [X]doubly queue
+- [X]️push_back()
+- [X]️push_front()
+- [X]️begin()
+- [X]️end()
+- [X]Algorithm
+- [X]️push_back()
+- [X]️push_front()
+- [X]️erase()
 
-Day 35 #100daysofcodechallenge
+ ### DAY 35
 
-✅Solve question of arrays
-☑️Rotate arrays
-☑️Check if rotated & sorted
-☑️Reverse an array
-☑️Marge 2 sorted arrays
-☑️Move zeroes
+- [X]Solve question of arrays
+- [X]Rotate arrays
+- [X]Check if rotated & sorted
+- [X]Reverse an array
+- [X]Marge 2 sorted arrays
+- [X]Move zeroes
 
-day 36 #100daysofcodechallenge
-✔️char arrays
-✔️Strings
-✔️solve question
-☑️length of string
-☑️Reverse a string
-☑️Palindrome number
-☑️valid palindrome
-☑️string palindrome
+ ### DAY 36
+- [X]char arrays
+- [X]Strings
+- [X]solve question
+- [X]length of string
+- [X]Reverse a string
+- [X]Palindrome number
+- [X]valid palindrome
+- [X]string palindrome
 
-Day 37 #100daysofcodechallenge
+ ### DAY 37
 
-✅2-D array
-➡️Inserting elements in 2-D
-➡️Print element present im array
-➡️column wise sum
-➡️row wise sum
-➡️print like a wave
-➡️sum of two arrays
+- [X]2-D array
+- [X]️Inserting elements in 2-D
+- [X]️Print element present im array
+- [X]️column wise sum
+- [X]️row wise sum
+- [X]️print like a wave
+- [X]️sum of two arrays
 
-Day 38 #100daysofcodechallenge
+ ### DAY 38
 
-✅Solve some problems in leetcode
-✔️Spiral printing
-✔️Rotate 2-D Array 90 Degree
-✔️Binary search in 2-D Array
-✔️Binary search in 2-D Array
+- [X]Solve some problems in leetcode
+- [X]Spiral printing
+- [X]Rotate 2-D Array 90 Degree
+- [X]Binary search in 2-D Array
+- [X]Binary search in 2-D Array
 
-
-Day 39 #100daysofcodechallenge
+ ### DAY 39
 
 Today i have about
-✅Basic comsept queue
-➡️principle of queue
-➡️creating queue
-➡️Inserting element in queue
-➡️Deleting element in queue
-➡️display function
+- [X]Basic comsept queue
+- [X]️principle of queue
+- [X]️creating queue
+- [X]️Inserting element in queue
+- [X]️Deleting element in queue
+- [X]️display function
 
 
-Day 40 of #100daysofcodechallenge
+ ### DAY 40
 
-✅basic maths for dsa
-✅prime no program
-✅gcd
-✅image rotation
-✅modulas
+- [X]basic maths for dsa
+- [X]prime no program
+- [X]gcd
+- [X]image rotation
+- [X]modulas
 
-Day41 of #100daysofcodechallenge
+ ### DAY 41
 today I have learn.about
-✅length()
-✅compare()
-✅copy '='
-✅remove spaces
-✅maximum occurance character
-✅remove substring
-✅remove dublicate substring
-✅string comparison
-✅book allotment
+- [X]length()
+- [X]compare()
+- [X]copy '='
+- [X]remove spaces
+- [X]maximum occurance character
+- [X]remove substring
+- [X]remove dublicate substring
+- [X]string comparison
+- [X]book allotment
 
-Day 42 #100daysofcodechallenge
+ ### DAY 42
 
-✅pointer
-✅referencing of pointer
-✅dereferecing of pointer
-✅pointer using array
-➡️integer.
-➡️char
-✅Arthematic operation in pointer
+- [X]pointer
+- [X]referencing of pointer
+- [X]dereferecing of pointer
+- [X]pointer using array
+- [X]️integer.
+- [X]️char
+- [X]Arthematic operation in pointer
 
-Day 43 #100daysofcodechallenge
+ ### DAY 43
 
-✅Double pointer
-➡️use in function
-✅Reference veriable
-➡️static memory
-➡️Dynamic memory
-➡️difference b/w static memory and Dynamic memory
-✅Dynamic memory allocation
-➡️create veriables
-➡️creating 1-D array using dynamic array
-➡️creating 2-D array using dynamic array
-➡️delete array,veriable
+- [X]Double pointer
+- [X]️use in function
+- [X]Reference veriable
+- [X]️static memory
+- [X]️Dynamic memory
+- [X]️difference b/w static memory and Dynamic memory
+- [X]Dynamic memory allocation
+- [X]️create veriables
+- [X]️creating 1-D array using dynamic array
+- [X]️creating 2-D array using dynamic array
+- [X]️delete array,veriable
 
-day 44 #100daysofcodechallenge
+ ### DAY 44
 today i have learn about
-✅recursion
-✅recursion tree
-✅recursion in stack
-✅factorial using recursion
-✅2^n using recursion
-✅counting using recursion
+- [X]recursion
+- [X]recursion tree
+- [X]recursion in stack
+- [X]factorial using recursion
+- [X]2^n using recursion
+- [X]counting using recursion
 
 
-Day 45 #100daysofcodechallenge
+ ### DAY 45
 
 Today I have solve some problem statement using
-✅Recursion
-➡️fibonacci series
-➡️climb stair
-➡️say digits
-➡️check array Is sorted
-➡️bubble sort
-➡️linear search
-➡️Binary search
-➡️Sum of element
-➡️palindrome string
-➡️power of any number
-➡️string reverse
+- [X]Recursion
+- [X]️fibonacci series
+- [X]️climb stair
+- [X]️say digits
+- [X]️check array Is sorted
+- [X]️bubble sort
+- [X]️linear search
+- [X]️Binary search
+- [X]️Sum of element
+- [X]️palindrome string
+- [X]️power of any number
+- [X]️string reverse
 
 
-Day 46 of #100daysofcodechallenge
+ ### DAY 46
 
 Today I have learn about the methods of sorting an array using RECURSION
 
-✅Marge sort
-✅quick sort
-✅bubble sort
+- [X]Marge sort
+- [X]quick sort
+- [X]bubble sort
 
 
-Day 47 of #100daysofcodechallenge
+ ### DAY 47
 
 Today i have solve some string problem statement using recursion 
-✅subset of string using recursion 
-✅sequence of string using recursion
+- [X]subset of string using recursion 
+- [X]sequence of string using recursion
 
 
-Day 48 #100daysofcodechallenge
+ ### DAY 48
 
 Today I have learn about
-✔️permutation of string
-☑️using recursion
-☑️ make recursion tree
-✔️permutation integer vector
-☑️using recursion
-☑️ make recursion tree
-✔️phone keypad, problem
-☑️using recursion
-☑️ make recursion tree
+- [X]permutation of string
+- [X]using recursion
+- [X] make recursion tree
+- [X]permutation integer vector
+- [X]using recursion
+- [X] make recursion tree
+- [X]phone keypad, problem
+- [X]using recursion
+- [X] make recursion tree
 
-Day of 49 #100daysofcodechallenge 
+ ### DAY 49 
 
 today i have study about
-✔️time and space complexity of recursion
-☑️learner search
-☑️binary search
-☑️marge sort
-☑️quick sort
-☑️factorial
-✔️rat in maze
+- [X]time and space complexity of recursion
+- [X]learner search
+- [X]binary search
+- [X]marge sort
+- [X]quick sort
+- [X]factorial
+- [X]rat in maze
 
-day 50 #100daysofcodechallenge
+ ### DAY 50
 
-✔️class and objects
-✔️empty class
-✔️Access modifiers
-☑️ public
-☑️protected
-☑️private
-✔️Static vs dynamic Allocation in class and object
-✔️Constructor
-☑️Default constructor
-☑️Parameterised constructor
-☑️copy constructor
-☑️shallow and deep copy
-✔️Destructor
-✔️static keyword
-✔️THIS keyword
-✔️Linklist Question
-☑️Reverse linklist
-⏩Iteratively
-⏩recursion
-☑️Find Middle
-⏩ Iteratively
-⏩recursion
-✔️Time & space complexity
-☑️marge sort
-☑️ febonicci series
-☑️factorial
+- [X]class and objects
+- [X]empty class
+- [X]Access modifiers
+- [X] public
+- [X]protected
+- [X]private
+- [X]Static vs dynamic Allocation in class and object
+- [X]Constructor
+- [X]Default constructor
+- [X]Parameterised constructor
+- [X]copy constructor
+- [X]shallow and deep copy
+- [X]Destructor
+- [X]static keyword
+- [X]THIS keyword
+- [X]Linklist Question
+- [X]Reverse linklist
+- [X]Iteratively
+- [X]recursion
+- [X]Find Middle
+- [X] Iteratively
+- [X]recursion
+- [X]Time & space complexity
+- [X]marge sort
+- [X] febonicci series
+- [X]factorial
 
 
-Day 51 #100daysofcodechallenge
+ ### DAY 51
 
 Today I have solve some problem statement
-✔️Reverse link list in k order
+- [X]Reverse link list in k order
 calculate its time complexity and space complexity
-✔️check link list is circular or not
+- [X]check link list is circular or not
 calculate its time complexity and space complexity
-✔️Detect cycle
+- [X]Detect cycle
 
-Day 52 #100daysofcodechallenge
+ ### DAY 52
 
 Today i have solve some problem statement related to link list
-✔️Remove Duplicates from sorted link list
-✔️Remove duplicates from unsorted link list
-✔️Sort 0s ,1s ,2s
-✔️Marge two sorted link list
+- [X]Remove Duplicates from sorted link list
+- [X]Remove duplicates from unsorted link list
+- [X]Sort 0s ,1s ,2s
+- [X]Marge two sorted link list
 
-Day 53 #100daysofcodechallenge
-
-Today I have solve some problem statement using linklist
-✔️palindrome linklist
-✔️Add 2 Number represented by Linklist
-✔️Clone a linklist with random pointer
-
-Day 53 #100daysofcodechallenge
+ ### DAY 53
 
 Today I have solve some problem statement using linklist
-✔️palindrome linklist
-✔️Add 2 Number represented by Linklist
-✔️Clone a linklist with random pointer
+- [X]palindrome linklist
+- [X]Add 2 Number represented by Linklist
+- [X]Clone a linklist with random pointer
 
-Day 54 #100daysofcodechallenge
+ ### DAY 54
+
+Today I have solve some problem statement using linklist
+- [X]palindrome linklist
+- [X]Add 2 Number represented by Linklist
+- [X]Clone a linklist with random pointer
+
+ ### DAY 55
 Today I have solve some problem statement
-✔️Marge sort with link list
-✔️Delete Middle Element in stack
-✔️Valid Parenthesis
-✔️Insert at Bottom in stack
+- [X]Marge sort with link list
+- [X]Delete Middle Element in stack
+- [X]Valid Parenthesis
+- [X]Insert at Bottom in stack
 
 
-📅Day 55 #100daysofcodechallenge
+ ### DAY 55
 
 📝Today I have solve stack problem statement
-✔️Reverse a Stack using recursion
-✔️Sort a Stack using recursion
-✔️Reduntant Brackets
-✔️Minimum bracket Reversal
+- [X]Reverse a Stack using recursion
+- [X]Sort a Stack using recursion
+- [X]Reduntant Brackets
+- [X]Minimum bracket Reversal
 
-Day 56 of #100daysofcodechallenge
+ ### DAY 56
 
 Today I have solve stack application
 
